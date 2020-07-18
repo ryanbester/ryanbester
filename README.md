@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi
+
+There is not much on this GitHub profile, apart from a few side projects I'm working on in my free time.
+
+I'm currently working on Comimant, which is an open source intranet platform, and Radiant Client, which is a Minecraft client with additional features, yet to be released.
 
 <!--
 **ryanbester/ryanbester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
