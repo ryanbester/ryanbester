@@ -1,81 +1,30 @@
-#### <div align="center">There is not much on this GitHub profile, apart from a few side projects I'm working on in my free time.</div>  
-  
+Hi, I'm Ryan Bester and I'm currently a university student studying Cyber Security.
 
-- I’m currently working on [Comimant](https://github.com/ryanbester/comimant), which is an open source intranet platform, and Radiant Client, which is a Minecraft utility mod  yet to be released.  
-  
+In my free time, I like to work on random projects that I feel would be useful in my life.
 
-<br/>  
+## Projects
 
+### Libraries
 
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
+- **[dotnet-darkmode](https://github.com/ryanbester/dotnet-darkmode)** - Adds support for Windows 10 dark mode in .NET applications.
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="50" />  
-</div></td><td valign="top" width="50%">
+### Software
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="Redis" height="50" />  
-</div></td></tr></table>  
+- **[PackStudio](https://packstudio.ryanbester.com/)** - A free and open source application for making Minecraft resource packs. *Development on this project is currently on hold.*
+- **[Waveboard](https://github.com/ryanbester/waveboard)** - Simple application to play sounds through your microphone.
+- **[Minecraft Map Manager](https://github.com/ryanbester/minecraft-map-manager)** - Create, edit, and delete maps in your Minecraft world.
 
-<br/>  
+### Minecraft Mods/Plugins
 
+- **[SignAura](https://github.com/ryanbester/SignAura)** - A sign editing plugin for Minecraft
+- **[KeepCommandHistory](https://github.com/ryanbester/keepcommandhistory)** - A simple Minecraft mod to keep command and chat history when leaving worlds.
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/ryanbester" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Rysie1024" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/8827288" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+### Fun Stuff
 
-<br/>  
+- **[HiccaShaders](https://github.com/ryanbester/HiccaShaders)** - Minecraft shaders that add weird effects.
 
+## Links
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ryanbester&show_icons=true&count_private=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbester" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-- [Creating a Discord Weather Bot](https://blog.ryanbester.com/uncategorized/creating-a-discord-weather-bot/?utm_source=rss&utm_medium=rss&utm_campaign=creating-a-discord-weather-bot)
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ryanbester&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+- **[Website](https://www.ryanbester.com)**
+- **[Twitter](https://twitter.com/Rysie1024)**
+- **[Discord](https://discord.com)** - Rysie1024#1517
