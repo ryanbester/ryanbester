@@ -18,6 +18,9 @@ In my free time, I like to work on random projects that I feel would be useful i
 
 - **[SignAura](https://github.com/ryanbester/SignAura)** - A sign editing plugin for Minecraft
 - **[KeepCommandHistory](https://github.com/ryanbester/keepcommandhistory)** - A simple Minecraft mod to keep command and chat history when leaving worlds.
+- **[SHFA](https://github.com/ryanbester/shfa)** - A Minecraft mod to make building a lot easier by making the hitboxes of certain blocks larger.
+- **[Spectator Quick Switch](https://github.com/ryanbester/spectatorquickswitch)** - A Minecraft mod that allows you to quickly switch between spectator and your previous game mode with a single key press.
+- **[VisualWorldEdit](https://github.com/ryanbester/visualworldedit)** - A Minecraft mod to visualise WorldEdit selections.
 
 ### Fun Stuff
 
