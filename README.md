@@ -7,6 +7,7 @@ In my free time, I like to work on random projects that I feel would be useful i
 ### Libraries
 
 - **[dotnet-darkmode](https://github.com/ryanbester/dotnet-darkmode)** - Adds support for Windows 10 dark mode in .NET applications.
+- **[ImRibbon](https://github.com/ryanbester/ImRibbon)** - Ribbon library for ImGui.
 
 ### Software
 
